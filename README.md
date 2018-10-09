@@ -1,5 +1,4 @@
 # Grace Hopper Notes
-#ghc
 
 # 1. Keynote Speech
 ## Padmasree Warrior
