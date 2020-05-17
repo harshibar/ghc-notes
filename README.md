@@ -1,5 +1,5 @@
 # Grace Hopper Notes
-#ghc
+Notes from Grace Hopper Conference 2018. Please forgive typos!
 
 # 1. Keynote Speech
 ## Padmasree Warrior
